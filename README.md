@@ -1,4 +1,4 @@
-# Assignment---4
+# Assignment-4
 Hypothesis Testing
 
 1. Chisquare test
